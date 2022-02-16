@@ -1,0 +1,136 @@
+body {
+      font-family: "Avenir Next";
+}
+
+li {
+	  list-style: none;
+}
+
+.kop {
+	  background-color: #5F9EA0 ;
+	  color: #fff;
+	  height: 50px;
+	  font-size : 35PX;
+	  text-align: center;
+}
+	   
+.header {
+	  background-color: #ADD8E6;
+	  color: #fff;
+	  height: 90px;
+}
+
+.header li:hover {
+	  background-color: red; 
+	  font-size:25px;
+	  color: blue;
+}
+
+.header-logo img{
+	  float: left;
+	  width: 100px;
+	  height: 80px;
+	  border-radius: 5px;
+	  margin-left: 20px;
+	  margin-top :0px;
+}
+
+	  
+
+
+.header-list li {
+	  float: left;
+	  padding: 33px 20px;
+	  border-radius: 30px;
+      border:1px solid blue;
+      padding : 20px 40px;
+      margin-left: 20px ;
+      margin-top:10px;
+      background-color: #F08080;
+}
+	  .footer {
+        background-color: #A0522D;
+        height: 60px;
+        color: #fff;
+        padding: 40px;
+        display: block;
+
+		
+      }
+
+      .footer-logo {
+        font-size: 50px;
+        float: left;
+      }
+
+      .footer-list {
+        float: right;
+      }
+
+      .footer-list2 {
+        text-align: center;
+        color: gold;
+      }
+
+      .footer-list li {
+        padding-bottom: 20px;
+      }
+        
+          
+      li a {   
+          display: black;
+          color: black;
+          padding: 8px 16px;
+          text-decoration: none;
+      
+}
+    li a:hover {
+                  color: black;
+  
+} 
+          
+        H2 {
+          font-family: times new roman;
+          color: #DC143C
+          font-size: 20px;
+          line-height: 1.75cm;
+          text-shadow:1px 1px #F08080;
+}
+          
+        p{ 
+          font-family: arial;
+          line-height: 1.5cm;
+             
+}
+
+
+	 
+	 
+		.footer {
+        background-color:#5F9EA0 ;
+        height: 60px;
+        color: #fff;
+        padding: 40px;
+        display: block;
+
+		
+      }
+
+      .footer-logo {
+        font-size: 50px;
+        float: left;
+      }
+
+      .footer-list {
+        float: right;
+      }
+
+      .footer-list2 {
+        text-align: center;
+        color: gold;
+      }
+
+      .footer-list li {
+        padding-bottom: 20px;
+      }
+	  

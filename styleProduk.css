@@ -1,0 +1,167 @@
+body {
+      font-family: "Avenir Next";
+}
+
+li {
+	  list-style: none;
+}
+
+.kop {
+	  background-color: #5F9EA0;
+	  color: #fff;
+	  height: 50px;
+	  font-size : 35PX;
+	  text-align: center;
+}
+	   
+.header {
+	  background-color:#ADD8E6;
+	  color: #fff;
+	  height: 90px;
+}
+
+.header li:hover {
+	  background-color: red; 
+	  font-size:25px;
+	  color: blue;
+}
+
+.header-logo img{
+	  float: left;
+	  width: 100px;
+	  height: 80px;
+	  border-radius: 5px;
+	  margin-left: 20px;
+	  margin-top :0px;
+}
+
+	  
+
+
+.header-list li {
+	  float: left;
+	  padding: 33px 20px;
+	  border-radius: 30px;
+      border:1px solid blue;
+      padding : 20px 40px;
+      margin-left: 20px ;
+      margin-top:10px;
+      background-color: #F08080;
+}  
+	  .main {
+			  padding: 100px 80px; 
+			  
+				   
+		}
+
+
+
+       .makanan {
+        margin-top: 20px;
+        height: 650px;
+        padding: 15px 15px;
+      }
+      .makanan h2 {
+        color: red;
+      }
+      .makanan1 img{
+        height: 200px;
+        width: 200px;
+        margin-left: 20px;
+        border-radius: 10px;
+        border: solid white;
+		float: left; 
+      }
+      .makanan1 {
+        float: left;
+        margin-right: 100px;
+      }
+      .makanan1 p {
+        text-align: center;
+        border-radius: 25px;
+
+      }
+	  
+	   
+       .minuman {
+        margin-top: 20px;
+        height: 650px;
+        padding: 15px 15px;
+      }
+      .minuman h2 {
+        color: red;
+      }
+      .minuman1 img{
+        height: 200px;
+        width: 200px;
+        margin-left: 20px;
+        border-radius: 10px;
+        border: solid white;
+		float: left; 
+      }
+      .minuman1 {
+        float: left;
+        margin-right: 100px;
+      }
+      .minuman1 p {
+        text-align: center;
+        border-radius: 25px;
+
+      }
+		 .dessert {
+        margin-top: 20px;
+        height: 650px;
+        padding: 15px 15px;
+      }
+      .dessert h2 {
+        color: red;
+      }
+      .dessert1 img{
+        height: 200px;
+        width: 200px;
+        margin-left: 20px;
+        border-radius: 10px;
+        border: solid white;
+		float: left; 
+      }
+      .dessert1 {
+        float: left;
+        margin-right: 100px;
+		
+      }
+      .dessert1 p {
+        text-align: center;
+        border-radius: 25px;
+		
+
+      }
+		
+		.footer {
+        background-color:#5F9EA0;
+        height: 60px;
+        color: #fff;
+        padding: 40px;
+        display: block;
+		margin-top : 200px;
+		
+
+		
+      }
+
+      .footer-logo {
+        font-size: 50px;
+        float: left;
+      }
+
+      .footer-list {
+        float: right;
+      }
+
+      .footer-list2 {
+        text-align: center;
+        color: gold;
+      }
+
+      .footer-list li {
+        padding-bottom: 20px;
+      }
